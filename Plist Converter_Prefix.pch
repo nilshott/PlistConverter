@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Plist Converter' target in the 'Plist Converter' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
